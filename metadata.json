@@ -1,0 +1,5 @@
+{
+  "name": "शेतकरी मित्र (Shetkari Mitra)",
+  "description": "शेतकऱ्यांसाठी शेतीविषयक माहिती, समस्या निवारण आणि हवामान अंदाज देणारे ॲप. (A farming assistant app for Marathi farmers providing crop info, problem solving, and weather updates.)",
+  "requestFramePermissions": ["geolocation"]
+}
